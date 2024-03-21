@@ -1,0 +1,1 @@
+# near-bos-with-smart-contract-example
